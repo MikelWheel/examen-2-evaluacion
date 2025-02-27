@@ -1,0 +1,80 @@
+body{
+    background-color: lightcoral;
+}
+
+
+h1{
+font-family: akaya ;
+}
+
+div.pie{
+    color: red;
+    background-color: yellow;
+    
+}
+div.cabeza{
+    color: white;
+    background-color: orangered;
+    text-shadow: 2px 2px  2px;
+    text-align: center;
+    padding-bottom: 10px ;
+    padding-top: 10px;
+}
+p.ultimo{
+    text-align: center;
+}
+p.caja{
+    color: blue;
+    border: 1px solid orangered;
+    text-align: center;
+}
+div.primero{
+    text-decoration: double;
+    background-color: yellow;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    border: 5px dashed orange ;
+}
+   
+  
+
+div.segundo{
+    border: 1px double ;
+    viewport-fit: auto;
+    color: red;
+    background-color: orangered;
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 500px;
+    vertical-align: middle;
+    
+}
+p.to{
+    color: white;
+    text-align: center;
+}
+span.nara{
+    border: 1px solid orangered;
+    background-color: orange;
+    
+}
+span:nara:focus{
+    background-color: blue;
+
+}
+div.productos{
+    text-align: center;
+    color: red;
+}
+div.mapa{
+    display: inline;
+}
+div.nar{
+    background-color: orangered;
+}
+div.segundod{
+    background-color: orangered;
+    margin-bottom: 20px;
+    vertical-align: middle;
+
+}
